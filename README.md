@@ -52,6 +52,3 @@ bash /root/delete.sh NjcyMz
 
 ubunt22 kurmak için 
 sudo apt-get install build-essential
-
-ubunt22 kurmak için 
-sudo apt-get install build-essential
