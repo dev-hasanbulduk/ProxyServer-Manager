@@ -1,3 +1,23 @@
+
+This application
+Updated and admin panel coded by Hasan Bulduk.
+This application provides a comprehensive proxy management system with both manual and advanced configuration capabilities.
+
+Users can manually integrate proxies into the system using custom code, allowing for flexible and automated deployments tailored to specific use cases.
+
+For advanced management, the application includes a dedicated Admin Panel, where users can:
+
+Add new proxies
+Edit existing proxy configurations
+Delete proxies when no longer needed
+Define and manage usage time limits for each proxy
+
+The system is designed to support both SOCKS5 and HTTP proxy protocols. Additionally, it offers the capability to serve both SOCKS5 and HTTP proxy traffic over the same port, simplifying network configuration and reducing infrastructure complexity.
+
+This architecture ensures high flexibility, centralized control, and efficient proxy lifecycle management for both small-scale and enterprise-level deployments.
+
+
+
 3proxy > ubuntu 16.0.04
 
 Kurulum öncesi notlar.
